@@ -7,7 +7,7 @@ A Clojure library function for returning a lazy seq of breadth-first vectors of 
 
 Works similarly to Python's [os.walk](https://docs.python.org/3/library/os.html#os.walk) function.
 
-[![Clojars Project](https://img.shields.io/clojars/v/jayzawrotny/file-tree.svg)](https://clojars.org/jayzawrotny/file-tree)
+[![Clojars Project](https://img.shields.io/clojars/v/jayzawrotny/file-tree.svg)](https://clojars.org/jayzawrotny/file-tree) [![Build Status](https://travis-ci.com/jayzawrotny/file-tree.svg?branch=master)](https://travis-ci.com/jayzawrotny/file-tree)
 
 [![Clojars Project](http://clojars.org/jayzawrotny/file-tree/latest-version.svg)](http://clojars.org/jayzawrotny/file-tree)
 
