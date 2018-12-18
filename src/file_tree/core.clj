@@ -27,7 +27,6 @@
   (->> root-dir
        (clojure.java.io/file)
        (file-seq)
-       (drop 1)
        (filter directory?)
        (map build-file-tree)))
 
