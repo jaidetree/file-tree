@@ -18,7 +18,7 @@ Works similarly to Python's [os.walk](https://docs.python.org/3/library/os.html#
 Add the following to your deps.edn:
 
 ```clojure
-{jayzawrotny/file-tree {:mvn/version "0.1.0"}}
+{jayzawrotny/file-tree {:mvn/version "0.1.2"}}
 ```
 
 ### Leiningen
@@ -26,7 +26,7 @@ Add the following to your deps.edn:
 Add the following to your project.clj:
 
 ```clojure
-[jayzawrotny/file-tree "0.1.0"]
+[jayzawrotny/file-tree "0.1.2"]
 ```
 
 ## Usage
